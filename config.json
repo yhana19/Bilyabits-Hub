@@ -1,7 +1,7 @@
 {
-    "botOwnerName": "",
-    "adminID": "",
+    "botOwnerName": "bioscope",
+    "adminID": "61564459952029",
     "botOwner": "https://fb.com/carljohn.villavito",
-    "prefix": "@",
+    "prefix": "-",
     "port": 10000
 }
